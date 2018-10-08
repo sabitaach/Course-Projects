@@ -1,0 +1,35 @@
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         390               76.4706 %
+Incorrectly Classified Instances       120               23.5294 %
+Kappa statistic                          0.6823
+Mean absolute error                      0.2916
+Root mean squared error                  0.3663
+Relative absolute error                 98.4261 %
+Root relative squared error             95.2274 %
+Total Number of Instances              510     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.683     0.03       0.667     0.683     0.675      0.924    accommodation
+                 0.745     0.093      0.689     0.745     0.716      0.888    activity
+                 0.766     0.099      0.721     0.766     0.742      0.894    attraction
+                 0.524     0.026      0.647     0.524     0.579      0.842    location
+                 0.847     0.059      0.894     0.847     0.87       0.957    travelprep
+Weighted Avg.    0.765     0.071      0.768     0.765     0.765      0.914
+
+=== Confusion Matrix ===
+Unigrams+ pos tag 
+   a   b   c   d   e   <-- classified as
+  28   6   4   1   2 |   a = accommodation
+   4  82  12   4   8 |   b = activity
+   4  13  98   6   7 |   c = attraction
+   4   5   9  22   2 |   d = location
+   2  13  13   1 160 |   e = travelprep
+   
+
+
+   
+   

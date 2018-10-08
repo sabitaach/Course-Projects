@@ -1,0 +1,225 @@
+MultiClass Classifier only High ranking bigrams from Information Gain  Top 70 attributes
+
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         299               58.2846 %
+Incorrectly Classified Instances       214               41.7154 %
+Kappa statistic                          0.4322
+Mean absolute error                      0.3028
+Root mean squared error                  0.3797
+Relative absolute error                102.3028 %
+Root relative squared error             98.7375 %
+Total Number of Instances              513     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.317     0.021      0.565     0.317     0.406      0.738    accommodation
+                 0.649     0.256      0.411     0.649     0.503      0.808    activity
+                 0.523     0.083      0.677     0.523     0.59       0.815    attraction
+                 0.429     0.025      0.6       0.429     0.5        0.832    location
+                 0.675     0.177      0.694     0.675     0.684      0.878    travelprep
+Weighted Avg.    0.583     0.146      0.61      0.583     0.584      0.832
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   <-- classified as
+  13  14   8   1   5 |   a = accommodation
+   4  72   8   7  20 |   b = activity
+   1  37  67   2  21 |   c = attraction
+   2   8   3  18  11 |   d = location
+   3  44  13   2 129 |   e = travelprep
+   
+   ----------------------------------------------
+   ----------------------------------------------------------------
+ NaiveBayes Multinomial   
+   
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         269               52.4366 %
+Incorrectly Classified Instances       244               47.5634 %
+Kappa statistic                          0.3721
+Mean absolute error                      0.1958
+Root mean squared error                  0.3911
+Relative absolute error                 66.1646 %
+Root relative squared error            101.7132 %
+Total Number of Instances              513     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.488     0.087      0.328     0.488     0.392      0.842    accommodation
+                 0.351     0.092      0.513     0.351     0.417      0.796    activity
+                 0.492     0.07       0.7       0.492     0.578      0.82     attraction
+                 0.69      0.127      0.326     0.69      0.443      0.844    location
+                 0.618     0.245      0.599     0.618     0.608      0.777    travelprep
+Weighted Avg.    0.524     0.146      0.562     0.524     0.529      0.802
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   <-- classified as
+  20   7   1   3  10 |   a = accommodation
+  11  39   8  17  36 |   b = activity
+  14   7  63  13  31 |   c = attraction
+   3   3   5  29   2 |   d = location
+  13  20  13  27 118 |   e = travelprep
+  
+  
+  ----------------------------------------------------
+  -----------------------------------------------------------------
+ NaiveBayes
+
+ === Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         276               53.8012 %
+Incorrectly Classified Instances       237               46.1988 %
+Kappa statistic                          0.4274
+Mean absolute error                      0.1831
+Root mean squared error                  0.389 
+Relative absolute error                 61.8621 %
+Root relative squared error            101.1633 %
+Total Number of Instances              513     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.805     0.333      0.174     0.805     0.286      0.853    accommodation
+                 0.387     0.052      0.672     0.387     0.491      0.84     activity
+                 0.484     0.034      0.827     0.484     0.611      0.824    attraction
+                 0.667     0.066      0.475     0.667     0.554      0.893    location
+                 0.576     0.047      0.88      0.576     0.696      0.855    travelprep
+Weighted Avg.    0.538     0.069      0.732     0.538     0.586      0.847
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   <-- classified as
+  33   5   0   3   0 |   a = accommodation
+  47  43   4  15   2 |   b = activity
+  45   7  62   4  10 |   c = attraction
+   7   4   0  28   3 |   d = location
+  58   5   9   9 110 |   e = travelprep
+   
+   
+   -----------------------------------------
+   --------------------------------------------------
+   
+   
+Logistic Regression
+
+== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         286               55.7505 %
+Incorrectly Classified Instances       227               44.2495 %
+Kappa statistic                          0.4021
+Mean absolute error                      0.1885
+Root mean squared error                  0.345 
+Relative absolute error                 63.6956 %
+Root relative squared error             89.7117 %
+Total Number of Instances              513     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.268     0.04       0.367     0.268     0.31       0.749    accommodation
+                 0.64      0.259      0.406     0.64      0.497      0.766    activity
+                 0.484     0.081      0.667     0.484     0.561      0.779    attraction
+                 0.429     0.036      0.514     0.429     0.468      0.789    location
+                 0.649     0.174      0.689     0.649     0.668      0.837    travelprep
+Weighted Avg.    0.558     0.147      0.582     0.558     0.559      0.796
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   <-- classified as
+  11  15   8   2   5 |   a = accommodation
+   6  71   7   7  20 |   b = activity
+   5  37  62   3  21 |   c = attraction
+   3   8   3  18  10 |   d = location
+   5  44  13   5 124 |   e = travelprep
+
+--------------------------------------------------
+--------------------------------------------------------
+
+LibSVM
+
+est mode:10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+LibSVM wrapper, original code by Yasser EL-Manzalawy (= WLSVM)
+
+Time taken to build model: 0.17 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         325               63.3528 %
+Incorrectly Classified Instances       188               36.6472 %
+Kappa statistic                          0.4956
+Mean absolute error                      0.1466
+Root mean squared error                  0.3829
+Relative absolute error                 49.5307 %
+Root relative squared error             99.571  %
+Total Number of Instances              513     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.268     0.006      0.786     0.268     0.4        0.631    accommodation
+                 0.838     0.289      0.445     0.838     0.581      0.775    activity
+                 0.508     0.018      0.903     0.508     0.65       0.745    attraction
+                 0.381     0.004      0.889     0.381     0.533      0.688    location
+                 0.733     0.186      0.7       0.733     0.716      0.773    travelprep
+Weighted Avg.    0.634     0.137      0.718     0.634     0.63       0.748
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   <-- classified as
+  11  22   1   0   7 |   a = accommodation
+   0  93   0   0  18 |   b = activity
+   0  33  65   1  29 |   c = attraction
+   0  17   3  16   6 |   d = location
+   3  44   3   1 140 |   e = travelprep
+   
+   
+   -------------------------------------
+   ---------------------------------------------
+   
+   Bagging
+   
+   Time taken to build model: 0.63 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         371               72.3197 %
+Incorrectly Classified Instances       142               27.6803 %
+Kappa statistic                          0.6059
+Mean absolute error                      0.1677
+Root mean squared error                  0.2716
+Relative absolute error                 56.6644 %
+Root relative squared error             70.6406 %
+Total Number of Instances              513     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.488     0          1         0.488     0.656      0.893    accommodation
+                 0.604     0.06       0.736     0.604     0.663      0.904    activity
+                 0.641     0.008      0.965     0.641     0.77       0.927    attraction
+                 0.595     0.004      0.926     0.595     0.725      0.913    location
+                 0.927     0.351      0.61      0.927     0.736      0.928    travelprep
+Weighted Avg.    0.723     0.146      0.783     0.723     0.721      0.919
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   <-- classified as
+  20   4   0   0  17 |   a = accommodation
+   0  67   0   1  43 |   b = activity
+   0   5  82   1  40 |   c = attraction
+   0   2   2  25  13 |   d = location
+   0  13   1   0 177 |   e = travelprep

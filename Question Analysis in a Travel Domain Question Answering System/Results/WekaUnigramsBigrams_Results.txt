@@ -1,0 +1,35 @@
+
+Bagging : Rep Tree
+Time taken to build model: 21.25 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         446               87.451  %
+Incorrectly Classified Instances        64               12.549  %
+Kappa statistic                          0.8315
+Mean absolute error                      0.0934
+Root mean squared error                  0.1959
+Relative absolute error                 31.5436 %
+Root relative squared error             50.9314 %
+Total Number of Instances              510     
+Ignored Class Unknown Instances                  2     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.634     0.009      0.867     0.634     0.732      0.962    accommodation
+                 1         0.135      0.671     1         0.803      0.979    activity
+                 0.844     0.005      0.982     0.844     0.908      0.981    attraction
+                 0.857     0.009      0.9       0.857     0.878      0.985    location
+                 0.878     0          1         0.878     0.935      0.988    travelprep
+Weighted Avg.    0.875     0.032      0.905     0.875     0.879      0.982
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   <-- classified as
+  26  12   0   3   0 |   a = accommodation
+   0 110   0   0   0 |   b = activity
+   1  18 108   1   0 |   c = attraction
+   2   4   0  36   0 |   d = location
+   1  20   2   0 166 |   e = travelprep

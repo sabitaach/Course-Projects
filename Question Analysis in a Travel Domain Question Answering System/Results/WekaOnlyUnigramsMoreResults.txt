@@ -1,0 +1,99 @@
+Bagging Only Unigrams 
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         421               82.549  %
+Incorrectly Classified Instances        89               17.451  %
+Kappa statistic                          0.7661
+Mean absolute error                      0.1011
+Root mean squared error                  0.2147
+Relative absolute error                 34.1285 %
+Root relative squared error             55.8185 %
+Total Number of Instances              510     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.634     0.004      0.929     0.634     0.754      0.974    accommodation
+                 0.955     0.19       0.58      0.955     0.722      0.957    activity
+                 0.734     0.013      0.949     0.734     0.828      0.968    attraction
+                 0.833     0.011      0.875     0.833     0.854      0.982    location
+                 0.852     0.003      0.994     0.852     0.917      0.985    travelprep
+Weighted Avg.    0.825     0.047      0.878     0.825     0.834      0.974
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   <-- classified as
+  26  10   0   4   1 |   a = accommodation
+   0 105   5   0   0 |   b = activity
+   0  33  94   1   0 |   c = attraction
+   2   5   0  35   0 |   d = location
+   0  28   0   0 161 |   e = travelprep
+   
+   ----------------------------------
+   -------------------------------------
+   
+   MultiClass+ SelectedUnigrams with high information gain 
+   
+   === Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         384               75.2941 %
+Incorrectly Classified Instances       126               24.7059 %
+Kappa statistic                          0.6761
+Mean absolute error                      0.2917
+Root mean squared error                  0.3672
+Relative absolute error                 98.4815 %
+Root relative squared error             95.4418 %
+Total Number of Instances              510     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.829     0.028      0.723     0.829     0.773      0.907    accommodation
+                 0.6       0.05       0.767     0.6       0.673      0.849    activity
+                 0.828     0.065      0.809     0.828     0.819      0.909    attraction
+                 0.619     0.132      0.295     0.619     0.4        0.814    location
+                 0.804     0.019      0.962     0.804     0.876      0.96     travelprep
+Weighted Avg.    0.753     0.047      0.808     0.753     0.77       0.907
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   <-- classified as
+  34   3   1   3   0 |   a = accommodation
+   5  66   6  29   4 |   b = activity
+   3   3 106  15   1 |   c = attraction
+   2   6   7  26   1 |   d = location
+   3   8  11  15 152 |   e = travelprep
+   
+  Bagging + Selected Unigrams  with high information gain 
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         421               82.549  %
+Incorrectly Classified Instances        89               17.451  %
+Kappa statistic                          0.7661
+Mean absolute error                      0.0984
+Root mean squared error                  0.2108
+Relative absolute error                 33.2264 %
+Root relative squared error             54.805  %
+Total Number of Instances              510     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.634     0.004      0.929     0.634     0.754      0.973    accommodation
+                 0.936     0.188      0.579     0.936     0.715      0.958    activity
+                 0.742     0.018      0.931     0.742     0.826      0.969    attraction
+                 0.833     0.011      0.875     0.833     0.854      0.989    location
+                 0.857     0          1         0.857     0.923      0.987    travelprep
+Weighted Avg.    0.825     0.046      0.876     0.825     0.835      0.976
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   <-- classified as
+  26  11   0   4   0 |   a = accommodation
+   0 103   7   0   0 |   b = activity
+   0  32  95   1   0 |   c = attraction
+   2   5   0  35   0 |   d = location
+   0  27   0   0 162 |   e = travelprep

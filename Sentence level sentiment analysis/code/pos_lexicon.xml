@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_51" class="java.beans.XMLDecoder">
+ <object class="java.util.Hashtable">
+  <void method="put">
+   <string>glad</string>
+   <double>52.243202167919016</double>
+  </void>
+  <void method="put">
+   <string>excite</string>
+   <double>105.1321434379045</double>
+  </void>
+  <void method="put">
+   <string>top</string>
+   <double>79.4096192567085</double>
+  </void>
+  <void method="put">
+   <string>amaze</string>
+   <double>48.44891735328637</double>
+  </void>
+  <void method="put">
+   <string>cool</string>
+   <double>83.67097753562126</double>
+  </void>
+  <void method="put">
+   <string>hot</string>
+   <double>67.24955454501287</double>
+  </void>
+  <void method="put">
+   <string>enjoy</string>
+   <double>83.67097753562126</double>
+  </void>
+  <void method="put">
+   <string>chic</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>fine</string>
+   <double>100.12585089324239</double>
+  </void>
+  <void method="put">
+   <string>nicely</string>
+   <double>31.962934528910047</double>
+  </void>
+  <void method="put">
+   <string>perfect</string>
+   <double>130.75496862514538</double>
+  </void>
+  <void method="put">
+   <string>smart</string>
+   <double>71.72253618956543</double>
+  </void>
+  <void method="put">
+   <string>super</string>
+   <double>138.02482309661863</double>
+  </void>
+  <void method="put">
+   <string>work</string>
+   <double>468.3788630459805</double>
+  </void>
+  <void method="put">
+   <string>enough</string>
+   <double>47.380666212290194</double>
+  </void>
+  <void method="put">
+   <string>fav</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>success</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>amazing</string>
+   <double>169.20006371137208</double>
+  </void>
+  <void method="put">
+   <string>compliment</string>
+   <double>56.99439725222064</double>
+  </void>
+  <void method="put">
+   <string>straighten</string>
+   <double>42.39280268412557</double>
+  </void>
+  <void method="put">
+   <string>like</string>
+   <double>153.1875867294874</double>
+  </void>
+  <void method="put">
+   <string>inexpensive</string>
+   <double>42.39280268412557</double>
+  </void>
+  <void method="put">
+   <string>perfectly</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>free</string>
+   <double>499.61177380285557</double>
+  </void>
+  <void method="put">
+   <string>beautifully</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>smooth</string>
+   <double>172.52581456408694</double>
+  </void>
+  <void method="put">
+   <string>sweet</string>
+   <double>94.12984972757391</double>
+  </void>
+  <void method="put">
+   <string>carefree</string>
+   <double>27.613650118192</double>
+  </void>
+  <void method="put">
+   <string>love</string>
+   <double>656.9893630214976</double>
+  </void>
+  <void method="put">
+   <string>fantastic</string>
+   <double>42.39280268412557</double>
+  </void>
+  <void method="put">
+   <string>handy</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>suave</string>
+   <double>56.99439725222064</double>
+  </void>
+  <void method="put">
+   <string>happy</string>
+   <double>188.79130478006056</double>
+  </void>
+  <void method="put">
+   <string>nourish</string>
+   <double>51.14069524625607</double>
+  </void>
+  <void method="put">
+   <string>wow</string>
+   <double>52.243202167919016</double>
+  </void>
+  <void method="put">
+   <string>brilliant</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>better</string>
+   <double>70.68198098980945</double>
+  </void>
+  <void method="put">
+   <string>clearly</string>
+   <double>31.962934528910047</double>
+  </void>
+  <void method="put">
+   <string>yay</string>
+   <double>47.380666212290194</double>
+  </void>
+  <void method="put">
+   <string>wonderful</string>
+   <double>56.99439725222064</double>
+  </void>
+  <void method="put">
+   <string>fun</string>
+   <double>92.00975508575901</double>
+  </void>
+  <void method="put">
+   <string>available</string>
+   <double>61.64542499959513</double>
+  </void>
+  <void method="put">
+   <string>cute</string>
+   <double>62.6938369774427</double>
+  </void>
+  <void method="put">
+   <string>smile</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>relaxed</string>
+   <double>37.26159209392833</double>
+  </void>
+  <void method="put">
+   <string>gentle</string>
+   <double>42.39280268412557</double>
+  </void>
+  <void method="put">
+   <string>adorable</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>beauty</string>
+   <double>109.06505237083911</double>
+  </void>
+  <void method="put">
+   <string>pretty</string>
+   <double>223.70273144708378</double>
+  </void>
+  <void method="put">
+   <string>advantage</string>
+   <double>31.962934528910047</double>
+  </void>
+  <void method="put">
+   <string>great</string>
+   <double>480.88069969231475</double>
+  </void>
+  <void method="put">
+   <string>saver</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>thank</string>
+   <double>155.63368648543437</double>
+  </void>
+  <void method="put">
+   <string>cure</string>
+   <double>42.39280268412557</double>
+  </void>
+  <void method="put">
+   <string>right</string>
+   <double>185.58474810910536</double>
+  </void>
+  <void method="put">
+   <string>strong</string>
+   <double>92.00975508575901</double>
+  </void>
+  <void method="put">
+   <string>frugal</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>beautiful</string>
+   <double>162.47095550615978</double>
+  </void>
+  <void method="put">
+   <string>shiny</string>
+   <double>162.47095550615978</double>
+  </void>
+  <void method="put">
+   <string>rich</string>
+   <double>111.93020385260007</double>
+  </void>
+  <void method="put">
+   <string>luck</string>
+   <double>42.39280268412557</double>
+  </void>
+  <void method="put">
+   <string>proud</string>
+   <double>31.962934528910047</double>
+  </void>
+  <void method="put">
+   <string>shine</string>
+   <double>265.81325391776005</double>
+  </void>
+  <void method="put">
+   <string>bargain</string>
+   <double>37.26159209392833</double>
+  </void>
+  <void method="put">
+   <string>sleek</string>
+   <double>147.22647796972655</double>
+  </void>
+  <void method="put">
+   <string>helpful</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>magic</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>heavenly</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>pure</string>
+   <double>59.22583276536274</double>
+  </void>
+  <void method="put">
+   <string>safe</string>
+   <double>47.380666212290194</double>
+  </void>
+  <void method="put">
+   <string>fabulous</string>
+   <double>42.39280268412557</double>
+  </void>
+  <void method="put">
+   <string>popular</string>
+   <double>42.39280268412557</double>
+  </void>
+  <void method="put">
+   <string>win</string>
+   <double>123.34213528506032</double>
+  </void>
+  <void method="put">
+   <string>instantly</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>loyal</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>prefer</string>
+   <double>37.26159209392833</double>
+  </void>
+  <void method="put">
+   <string>joy</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>affordable</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>healthy</string>
+   <double>152.17258598239826</double>
+  </void>
+  <void method="put">
+   <string>winner</string>
+   <double>54.50503202244717</double>
+  </void>
+  <void method="put">
+   <string>benefit</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>lead</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>vibrant</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>gorgeous</string>
+   <double>87.86979506071819</double>
+  </void>
+  <void method="put">
+   <string>luster</string>
+   <double>38.35552143469205</double>
+  </void>
+  <void method="put">
+   <string>appreciate</string>
+   <double>42.39280268412557</double>
+  </void>
+  <void method="put">
+   <string>manageable</string>
+   <double>42.39280268412557</double>
+  </void>
+  <void method="put">
+   <string>praise</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>favorite</string>
+   <double>185.58474810910536</double>
+  </void>
+  <void method="put">
+   <string>cleaner</string>
+   <double>29.235510550624657</double>
+  </void>
+  <void method="put">
+   <string>delicious</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>lucky</string>
+   <double>56.99439725222064</double>
+  </void>
+  <void method="put">
+   <string>warm</string>
+   <double>37.26159209392833</double>
+  </void>
+  <void method="put">
+   <string>protection</string>
+   <double>48.44891735328637</double>
+  </void>
+  <void method="put">
+   <string>protect</string>
+   <double>83.67097753562126</double>
+  </void>
+  <void method="put">
+   <string>good</string>
+   <double>875.5156384365597</double>
+  </void>
+  <void method="put">
+   <string>excellent</string>
+   <double>52.243202167919016</double>
+  </void>
+  <void method="put">
+   <string>wonder</string>
+   <double>148.6820694727378</double>
+  </void>
+  <void method="put">
+   <string>energize</string>
+   <double>37.26159209392833</double>
+  </void>
+  <void method="put">
+   <string>enhance</string>
+   <double>52.243202167919016</double>
+  </void>
+  <void method="put">
+   <string>clear</string>
+   <double>47.380666212290194</double>
+  </void>
+  <void method="put">
+   <string>easy</string>
+   <double>143.67659863511872</double>
+  </void>
+  <void method="put">
+   <string>trust</string>
+   <double>31.962934528910047</double>
+  </void>
+  <void method="put">
+   <string>clean</string>
+   <double>92.00975508575901</double>
+  </void>
+  <void method="put">
+   <string>sexy</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>interesting</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>ease</string>
+   <double>31.962934528910047</double>
+  </void>
+  <void method="put">
+   <string>fresh</string>
+   <double>111.26688845909273</double>
+  </void>
+  <void method="put">
+   <string>worth</string>
+   <double>92.00975508575901</double>
+  </void>
+  <void method="put">
+   <string>reward</string>
+   <double>74.09271642788683</double>
+  </void>
+  <void method="put">
+   <string>recommend</string>
+   <double>123.34213528506032</double>
+  </void>
+  <void method="put">
+   <string>fave</string>
+   <double>37.26159209392833</double>
+  </void>
+  <void method="put">
+   <string>bright</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>nice</string>
+   <double>239.39372983293381</double>
+  </void>
+  <void method="put">
+   <string>miracle</string>
+   <double>37.26159209392833</double>
+  </void>
+  <void method="put">
+   <string>gold</string>
+   <double>42.39280268412557</double>
+  </void>
+  <void method="put">
+   <string>flexible</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>faster</string>
+   <double>37.26159209392833</double>
+  </void>
+  <void method="put">
+   <string>glee</string>
+   <double>33.07865228548109</double>
+  </void>
+  <void method="put">
+   <string>awesome</string>
+   <double>219.70803981410015</double>
+  </void>
+  <void method="put">
+   <string>flawless</string>
+   <double>33.07865228548109</double>
+  </void>
+  <void method="put">
+   <string>well</string>
+   <double>285.3411129162692</double>
+  </void>
+  <void method="put">
+   <string>fast</string>
+   <double>47.380666212290194</double>
+  </void>
+  <void method="put">
+   <string>comfortable</string>
+   <double>31.962934528910047</double>
+  </void>
+  <void method="put">
+   <string>loving</string>
+   <double>56.99439725222064</double>
+  </void>
+  <void method="put">
+   <string>variety</string>
+   <double>31.962934528910047</double>
+  </void>
+  <void method="put">
+   <string>soft</string>
+   <double>304.5706578856585</double>
+  </void>
+  <void method="put">
+   <string>goodness</string>
+   <double>26.462921828384875</double>
+  </void>
+  <void method="put">
+   <string>lovely</string>
+   <double>101.15171678099338</double>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,353 @@
+>> clear
+>> 
+these are the values: wo: -0.039786, w1: -0.024673,  w2:-0.079349
+these are the initial weights: w0:9.335118e-01  w1: 2.199399e-01 w2: -2.325696e-01
+ 75 errors in epoch 0
+
+ 8 errors in epoch 1
+
+ 3 errors in epoch 2
+
+ 3 errors in epoch 3
+
+ 3 errors in epoch 4
+
+ 2 errors in epoch 5
+
+ 6 errors in epoch 6
+
+ 3 errors in epoch 7
+
+ 3 errors in epoch 8
+
+ 3 errors in epoch 9
+
+ 3 errors in epoch 10
+
+ 3 errors in epoch 11
+
+ 2 errors in epoch 12
+
+ 4 errors in epoch 13
+
+ 4 errors in epoch 14
+
+ 5 errors in epoch 15
+
+ 3 errors in epoch 16
+
+ 3 errors in epoch 17
+
+ 5 errors in epoch 18
+
+ 3 errors in epoch 19
+
+ 3 errors in epoch 20
+
+ 3 errors in epoch 21
+
+ 3 errors in epoch 22
+
+ 3 errors in epoch 23
+
+ 2 errors in epoch 24
+
+ 2 errors in epoch 25
+
+ 2 errors in epoch 26
+
+ 3 errors in epoch 27
+
+ 2 errors in epoch 28
+
+ 3 errors in epoch 29
+
+ 3 errors in epoch 30
+
+ 0 errors in epoch 31
+
+Completed in 31 number of epoches
+
+ ***These are the final weights***
+
+weights =
+
+   -4.0665   -2.6802   -8.2087
+
+
+ 75 errors in epoch 0
+
+ 9 errors in epoch 1
+
+ 3 errors in epoch 2
+
+ 3 errors in epoch 3
+
+ 1 errors in epoch 4
+
+ 6 errors in epoch 5
+
+ 3 errors in epoch 6
+
+ 3 errors in epoch 7
+
+ 3 errors in epoch 8
+
+ 3 errors in epoch 9
+
+ 3 errors in epoch 10
+
+ 0 errors in epoch 11
+
+Completed in 11 number of epoches
+
+ ***These are the final weights***
+
+weights =
+
+  -29.0665  -19.5253  -58.2473
+
+
+ 75 errors in epoch 0
+
+ 3 errors in epoch 1
+
+ 1 errors in epoch 2
+
+ 6 errors in epoch 3
+
+ 3 errors in epoch 4
+
+ 3 errors in epoch 5
+
+ 3 errors in epoch 6
+
+ 3 errors in epoch 7
+
+ 3 errors in epoch 8
+
+ 2 errors in epoch 9
+
+ 2 errors in epoch 10
+
+ 3 errors in epoch 11
+
+ 3 errors in epoch 12
+
+ 5 errors in epoch 13
+
+ 3 errors in epoch 14
+
+ 3 errors in epoch 15
+
+ 3 errors in epoch 16
+
+ 3 errors in epoch 17
+
+ 3 errors in epoch 18
+
+ 3 errors in epoch 19
+
+ 3 errors in epoch 20
+
+ 2 errors in epoch 21
+
+ 4 errors in epoch 22
+
+ 3 errors in epoch 23
+
+ 3 errors in epoch 24
+
+ 3 errors in epoch 25
+
+ 5 errors in epoch 26
+
+ 3 errors in epoch 27
+
+ 3 errors in epoch 28
+
+ 3 errors in epoch 29
+
+ 3 errors in epoch 30
+
+ 2 errors in epoch 31
+
+ 3 errors in epoch 32
+
+ 3 errors in epoch 33
+
+ 3 errors in epoch 34
+
+ 1 errors in epoch 35
+
+ 1 errors in epoch 36
+
+ 2 errors in epoch 37
+
+ 2 errors in epoch 38
+
+ 3 errors in epoch 39
+
+ 2 errors in epoch 40
+
+ 3 errors in epoch 41
+
+ 3 errors in epoch 42
+
+ 1 errors in epoch 43
+
+ 1 errors in epoch 44
+
+ 1 errors in epoch 45
+
+ 1 errors in epoch 46
+
+ 1 errors in epoch 47
+
+ 1 errors in epoch 48
+
+ 3 errors in epoch 49
+
+ 1 errors in epoch 50
+
+ 2 errors in epoch 51
+
+ 3 errors in epoch 52
+
+ 2 errors in epoch 53
+
+ 3 errors in epoch 54
+
+ 3 errors in epoch 55
+
+ 2 errors in epoch 56
+
+ 3 errors in epoch 57
+
+ 3 errors in epoch 58
+
+ 2 errors in epoch 59
+
+ 3 errors in epoch 60
+
+ 3 errors in epoch 61
+
+ 1 errors in epoch 62
+
+ 2 errors in epoch 63
+
+ 2 errors in epoch 64
+
+ 2 errors in epoch 65
+
+ 2 errors in epoch 66
+
+ 2 errors in epoch 67
+
+ 2 errors in epoch 68
+
+ 2 errors in epoch 69
+
+ 2 errors in epoch 70
+
+ 2 errors in epoch 71
+
+ 1 errors in epoch 72
+
+ 2 errors in epoch 73
+
+ 2 errors in epoch 74
+
+ 1 errors in epoch 75
+
+ 3 errors in epoch 76
+
+ 2 errors in epoch 77
+
+ 3 errors in epoch 78
+
+ 3 errors in epoch 79
+
+ 1 errors in epoch 80
+
+ 1 errors in epoch 81
+
+ 1 errors in epoch 82
+
+ 1 errors in epoch 83
+
+ 1 errors in epoch 84
+
+ 1 errors in epoch 85
+
+ 2 errors in epoch 86
+
+ 3 errors in epoch 87
+
+ 1 errors in epoch 88
+
+ 1 errors in epoch 89
+
+ 2 errors in epoch 90
+
+ 3 errors in epoch 91
+
+ 2 errors in epoch 92
+
+ 2 errors in epoch 93
+
+ 3 errors in epoch 94
+
+ 2 errors in epoch 95
+
+ 2 errors in epoch 96
+
+ 3 errors in epoch 97
+
+ 2 errors in epoch 98
+
+ 1 errors in epoch 99
+
+ 2 errors in epoch 100
+
+ 2 errors in epoch 101
+
+ 1 errors in epoch 102
+
+ 2 errors in epoch 103
+
+ 2 errors in epoch 104
+
+ 2 errors in epoch 105
+
+ 1 errors in epoch 106
+
+ 2 errors in epoch 107
+
+ 2 errors in epoch 108
+
+ 1 errors in epoch 109
+
+ 2 errors in epoch 110
+
+ 2 errors in epoch 111
+
+ 1 errors in epoch 112
+
+ 2 errors in epoch 113
+
+ 2 errors in epoch 114
+
+ 1 errors in epoch 115
+
+ 0 errors in epoch 116
+
+Completed in 116 number of epoches
+
+ ***These are the final weights***
+
+weights =
+
+   -0.6665   -0.4431   -1.3109
+
+>> 

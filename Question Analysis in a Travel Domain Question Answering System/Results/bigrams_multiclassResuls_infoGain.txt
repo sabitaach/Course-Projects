@@ -1,0 +1,30 @@
+=== Summary ===
+
+Correctly Classified Instances         350               68.2261 %
+Incorrectly Classified Instances       163               31.7739 %
+Kappa statistic                          0.5607
+Mean absolute error                      0.296 
+Root mean squared error                  0.3721
+Relative absolute error                100.0015 %
+Root relative squared error             96.7577 %
+Total Number of Instances              513     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.512     0.023      0.656     0.512     0.575      0.802    accommodation
+                 0.495     0.065      0.679     0.495     0.573      0.783    activity
+                 0.734     0.151      0.618     0.734     0.671      0.886    attraction
+                 0.5       0.017      0.724     0.5       0.592      0.862    location
+                 0.832     0.186      0.726     0.832     0.776      0.894    travelprep
+Weighted Avg.    0.682     0.124      0.683     0.682     0.675      0.858
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   <-- classified as
+  21   1  11   2   6 |   a = accommodation
+   2  55  23   3  28 |   b = activity
+   4   9  94   1  20 |   c = attraction
+   1   6   8  21   6 |   d = location
+   4  10  16   2 159 |   e = travelprep
+

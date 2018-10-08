@@ -1,0 +1,46 @@
+=== Run information ===
+
+Scheme:weka.classifiers.functions.LibSVM -S 0 -K 2 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 1.0 -E 0.001 -P 0.1 -seed 1
+Relation:     stream
+Instances:    510
+Attributes:   823
+[list of attributes omitted]
+Test mode:10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+LibSVM wrapper, original code by Yasser EL-Manzalawy (= WLSVM)
+
+Time taken to build model: 0.31 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         372               72.9412 %
+Incorrectly Classified Instances       138               27.0588 %
+Kappa statistic                          0.6307
+Mean absolute error                      0.1082
+Root mean squared error                  0.329 
+Relative absolute error                 36.5375 %
+Root relative squared error             85.5196 %
+Total Number of Instances              510     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.39      0          1         0.39      0.561      0.695    accommodation
+                 0.973     0.293      0.478     0.973     0.641      0.84     activity
+                 0.609     0          1         0.609     0.757      0.805    attraction
+                 0.19      0.013      0.571     0.19      0.286      0.589    location
+                 0.862     0.047      0.916     0.862     0.888      0.908    travelprep
+Weighted Avg.    0.729     0.081      0.821     0.729     0.726      0.824
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   <-- classified as
+  16  25   0   0   0 |   a = accommodation
+   0 107   0   3   0 |   b = activity
+   0  32  78   3  15 |   c = attraction
+   0  34   0   8   0 |   d = location
+   0  26   0   0 163 |   e = travelprep
+
