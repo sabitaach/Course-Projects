@@ -10,7 +10,7 @@ public class Text_to_speech {
 		
 	public void speaker(String contentToBeSppoken)
 	{
-		String apiKey="AIzaSyA5GvZqFdnNwVHrwd3YW2Vu9co4NezIrDg";
+		String apiKey="insert the key";
 		Audio audio = Audio.getInstance();
 		SynthesiserV2 synth = new SynthesiserV2(apiKey);
 		try {
